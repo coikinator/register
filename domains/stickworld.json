@@ -4,8 +4,10 @@
     "email": "stickworldgamecontact@gmail.com"
   },
   "records": {
+    "CNAME": [
+      "stickworld",
     "TXT": [
-      "vc-domain-verify=stickworld.is-a.dev,19b9b35a22713a38b80d"
+      "_vercel"
     ]
   }
 }
